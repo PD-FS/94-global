@@ -1,5 +1,5 @@
 {
-  "name": "baseDatosGeneral",
+  "name": "apiGlobal",
   "private": true,
   "dependencies": {}
 }
