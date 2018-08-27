@@ -5,11 +5,17 @@ class UpzsController < ApplicationController
   # GET /upzs.json
   def index
     @upzs = Upz.all
+	#respond_to do |format|
+		#format.html { redirect_to @upz }
+		#format.json { render :show,  location: @upz }
+	#end
   end
 
   # GET /upzs/1
   # GET /upzs/1.json
   def show
+	@upz = Upz.find(params[:id])
+	@districtArea = @upz.district_area
   end
 
   # GET /upzs/new
