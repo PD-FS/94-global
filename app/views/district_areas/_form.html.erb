@@ -18,12 +18,12 @@
 
   <div class="field">
     <%= form.label :initialZipCode %>
-    <%= form.text_field :initialZipCode %>
+    <%= form.number_field :initialZipCode %>
   </div>
 
   <div class="field">
     <%= form.label :lastZipCode %>
-    <%= form.text_field :lastZipCode %>
+    <%= form.number_field :lastZipCode %>
   </div>
 
   <div class="field">
@@ -39,6 +39,26 @@
   <div class="field">
     <%= form.label :density %>
     <%= form.text_field :density %>
+  </div>
+
+  <div class="field">
+    <%= form.label :shape %>
+    <%= form.text_area :shape %>
+  </div>
+
+  <div class="field">
+    <%= form.label :latitude %>
+    <%= form.text_field :latitude %>
+  </div>
+
+  <div class="field">
+    <%= form.label :longitude %>
+    <%= form.text_field :longitude %>
+  </div>
+
+  <div class="field">
+    <%= form.label :city_id %>
+    <%= form.text_field :city_id %>
   </div>
 
   <div class="actions">

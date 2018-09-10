@@ -1,0 +1,248 @@
+[
+    {
+        "Entity": "DistrictArea",
+        "Rows":
+        [
+            {
+                "name": "Usaquén",
+                "initialZipCode": 110111,
+                "lastZipCode": 110151,
+                "surfaceArea": "65,31",
+                "population": 501999,
+                "density": "76,864",
+                "shape": "",
+                "latitude": "4,744755516",
+                "longitude": "-74,02882558",
+                "city_id": 149
+            },
+            {
+                "name": "Chapinero",
+                "initialZipCode": 110211,
+                "lastZipCode": 110231,
+                "surfaceArea": "38,15",
+                "population": 139701,
+                "density": "3661,88",
+                "shape": "",
+                "latitude": "4,649670524",
+                "longitude": "-74,02747075",
+                "city_id": 149
+            },
+            {
+                "name": "Santa Fe",
+                "initialZipCode": 110311,
+                "lastZipCode": 110321,
+                "surfaceArea": "45,17",
+                "population": 110048,
+                "density": "2436,3",
+                "shape": "",
+                "latitude": "4,592233673",
+                "longitude": "-74,04137238",
+                "city_id": 149
+            },
+            {
+                "name": "San Cristóbal",
+                "initialZipCode": 110411,
+                "lastZipCode": 110441,
+                "surfaceArea": "49,09",
+                "population": 404697,
+                "density": "8243,98",
+                "shape": "",
+                "latitude": "4,548820475",
+                "longitude": "-74,06741611",
+                "city_id": 149
+            },
+            {
+                "name": "Usme",
+                "initialZipCode": 110511,
+                "lastZipCode": 110571,
+                "surfaceArea": "215,06",
+                "population": 457302,
+                "density": "2126,39",
+                "shape": "",
+                "latitude": "4,407832472",
+                "longitude": "-74,13856894",
+                "city_id": 149
+            },
+            {
+                "name": "Tunjuelito",
+                "initialZipCode": 110611,
+                "lastZipCode": 110621,
+                "surfaceArea": "9,91",
+                "population": 199430,
+                "density": "20124,11",
+                "shape": "",
+                "latitude": "4,570088232",
+                "longitude": "-74,13905229",
+                "city_id": 149
+            },
+            {
+                "name": "Bosa",
+                "initialZipCode": 110711,
+                "lastZipCode": 110741,
+                "surfaceArea": "23,93",
+                "population": 673077,
+                "density": "28126,91",
+                "shape": "",
+                "latitude": "4,625419442",
+                "longitude": "-74,1878614",
+                "city_id": 149
+            },
+            {
+                "name": "Kennedy",
+                "initialZipCode": 110811,
+                "lastZipCode": 110881,
+                "surfaceArea": "38,59",
+                "population": 1088443,
+                "density": "28205,31",
+                "shape": "",
+                "latitude": "4,629575737",
+                "longitude": "-74,15198225",
+                "city_id": 149
+            },
+            {
+                "name": "Fontibón",
+                "initialZipCode": 110911,
+                "lastZipCode": 110931,
+                "surfaceArea": "33,28",
+                "population": 394648,
+                "density": "11858,41",
+                "shape": "",
+                "latitude": "4,677696894",
+                "longitude": "-74,14022632",
+                "city_id": 149
+            },
+            {
+                "name": "Engativá",
+                "initialZipCode": 111011,
+                "lastZipCode": 111071,
+                "surfaceArea": "35,88",
+                "population": 887080,
+                "density": "24723,52",
+                "shape": "",
+                "latitude": "4,696812929",
+                "longitude": "-74,11890313",
+                "city_id": 149
+            },
+            {
+                "name": "Suba",
+                "initialZipCode": 111111,
+                "lastZipCode": 111176,
+                "surfaceArea": "100,56",
+                "population": 1218513,
+                "density": "12117,27",
+                "shape": "",
+                "latitude": "4,761069392",
+                "longitude": "-74,08324179",
+                "city_id": 149
+            },
+            {
+                "name": "Barrios Unidos",
+                "initialZipCode": 111211,
+                "lastZipCode": 111221,
+                "surfaceArea": "11,90",
+                "population": 243465,
+                "density": "20459,24",
+                "shape": "",
+                "latitude": "4,669653381",
+                "longitude": "-74,07548122",
+                "city_id": 149
+            },
+            {
+                "name": "Teusaquillo",
+                "initialZipCode": 111311,
+                "lastZipCode": 111321,
+                "surfaceArea": "14,19",
+                "population": 153025,
+                "density": 10784,
+                "shape": "",
+                "latitude": "4,64074128",
+                "longitude": "-74,08753998",
+                "city_id": 149
+            },
+            {
+                "name": "Los Mártires",
+                "initialZipCode": 111411,
+                "lastZipCode": 111411,
+                "surfaceArea": "6,51",
+                "population": 99119,
+                "density": "15225,65",
+                "shape": "",
+                "latitude": "4,608258918",
+                "longitude": "-74,08995106",
+                "city_id": 149
+            },
+            {
+                "name": "Antonio Nariño",
+                "initialZipCode": 111511,
+                "lastZipCode": 111511,
+                "surfaceArea": "4,88",
+                "population": 109176,
+                "density": "22372,12",
+                "shape": "",
+                "latitude": "4,587020492",
+                "longitude": "-74,10784267",
+                "city_id": 149
+            },
+            {
+                "name": "Puente Aranda",
+                "initialZipCode": 111611,
+                "lastZipCode": 111631,
+                "surfaceArea": "17,31",
+                "population": 258287,
+                "density": "14921,25",
+                "shape": "",
+                "latitude": "4,619194213",
+                "longitude": "-74,11048257",
+                "city_id": 149
+            },
+            {
+                "name": "La Candelaria",
+                "initialZipCode": 111711,
+                "lastZipCode": 111711,
+                "surfaceArea": "2,06",
+                "population": 24088,
+                "density": "11693,2",
+                "shape": "",
+                "latitude": "4,596194706",
+                "longitude": "-74,07035071",
+                "city_id": 149
+            },
+            {
+                "name": "Rafael Uribe Uribe",
+                "initialZipCode": 111811,
+                "lastZipCode": 111841,
+                "surfaceArea": "13,83",
+                "population": 374246,
+                "density": "27060,44",
+                "shape": "",
+                "latitude": "4,563796836",
+                "longitude": "-74,11272879",
+                "city_id": 149
+            },
+            {
+                "name": "Ciudad Bolívar",
+                "initialZipCode": 111911,
+                "lastZipCode": 111981,
+                "surfaceArea": 130,
+                "population": 707569,
+                "density": "5442,83",
+                "shape": "",
+                "latitude": "4,491710242",
+                "longitude": "-74,1667512",
+                "city_id": 149
+            },
+            {
+                "name": "Sumapaz",
+                "initialZipCode": 112011,
+                "lastZipCode": 112041,
+                "surfaceArea": "780,96",
+                "population": 6531,
+                "density": "8,36",
+                "shape": "",
+                "latitude": "4,018843319",
+                "longitude": "-74,26972668",
+                "city_id": 149
+            }
+        ]
+    }
+]

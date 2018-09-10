@@ -1,0 +1,904 @@
+[
+    {
+        "Entity": "Upz",
+        "Rows":
+        [
+            {
+                "name": "Paseo de los Libertadores",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,79655102",
+                "longitude": "-74,03301574",
+                "code": "UPZ1"
+            },
+            {
+                "name": "Verbenal",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,763207031",
+                "longitude": "-74,0327803",
+                "code": "UPZ9"
+            },
+            {
+                "name": "La Uribe",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,750639099",
+                "longitude": "-74,03164637",
+                "code": "UPZ10"
+            },
+            {
+                "name": "San Cristóbal Norte",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,737188913",
+                "longitude": "-74,02182608",
+                "code": "UPZ11"
+            },
+            {
+                "name": "Toberín",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,741242888",
+                "longitude": "-74,04013265",
+                "code": "UPZ12"
+            },
+            {
+                "name": "Los Cedros",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,724644079",
+                "longitude": "-74,03498314",
+                "code": "UPZ13"
+            },
+            {
+                "name": "Usaquén",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,695607871",
+                "longitude": "-74,03443138",
+                "code": "UPZ14"
+            },
+            {
+                "name": "Country Club",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,711196855",
+                "longitude": "-74,04325981",
+                "code": "UPZ15"
+            },
+            {
+                "name": "Santa Bárbara",
+                "district_area_id": 1,
+                "shape": "",
+                "latitude": "4,695822588",
+                "longitude": "-74,04506209",
+                "code": "UPZ16"
+            },
+            {
+                "name": "El Refugio",
+                "district_area_id": 2,
+                "shape": "",
+                "latitude": "4,664795524",
+                "longitude": "-74,04600418",
+                "code": "UPZ88"
+            },
+            {
+                "name": "San Isidro-Patios",
+                "district_area_id": 2,
+                "shape": "",
+                "latitude": "4,668413664",
+                "longitude": "-74,01838585",
+                "code": "UPZ89"
+            },
+            {
+                "name": "Pardo Rubio",
+                "district_area_id": 2,
+                "shape": "",
+                "latitude": "4,637899222",
+                "longitude": "-74,05557694",
+                "code": "UPZ90"
+            },
+            {
+                "name": "Chicó Lago",
+                "district_area_id": 2,
+                "shape": "",
+                "latitude": "4,668770778",
+                "longitude": "-74,0508402",
+                "code": "UPZ97"
+            },
+            {
+                "name": "Chapinero",
+                "district_area_id": 2,
+                "shape": "",
+                "latitude": "4,639034304",
+                "longitude": "-74,06281407",
+                "code": "UPZ99"
+            },
+            {
+                "name": "Sagrado Corazón",
+                "district_area_id": 3,
+                "shape": "",
+                "latitude": "4,619245699",
+                "longitude": "-74,0639951",
+                "code": "UPZ91"
+            },
+            {
+                "name": "La Macarena",
+                "district_area_id": 3,
+                "shape": "",
+                "latitude": "4,608568738",
+                "longitude": "-74,06365569",
+                "code": "UPZ92"
+            },
+            {
+                "name": "Las Nieves",
+                "district_area_id": 3,
+                "shape": "",
+                "latitude": "4,605242201",
+                "longitude": "-74,07528136",
+                "code": "UPZ93"
+            },
+            {
+                "name": "Las Cruces",
+                "district_area_id": 3,
+                "shape": "",
+                "latitude": "4,589768242",
+                "longitude": "-74,08271831",
+                "code": "UPZ95"
+            },
+            {
+                "name": "Lourdes",
+                "district_area_id": 3,
+                "shape": "",
+                "latitude": "4,586912906",
+                "longitude": "-74,07089931",
+                "code": "UPZ96"
+            },
+            {
+                "name": "San Blas",
+                "district_area_id": 4,
+                "shape": "",
+                "latitude": "4,564996275",
+                "longitude": "-74,08001319",
+                "code": "UPZ32"
+            },
+            {
+                "name": "Sociego",
+                "district_area_id": 4,
+                "shape": "",
+                "latitude": "4,579331783",
+                "longitude": "-74,0862598",
+                "code": "UPZ33"
+            },
+            {
+                "name": "20 de julio",
+                "district_area_id": 4,
+                "shape": "",
+                "latitude": "4,565065676",
+                "longitude": "-74,09505708",
+                "code": "UPZ34"
+            },
+            {
+                "name": "La Gloria",
+                "district_area_id": 4,
+                "shape": "",
+                "latitude": "4,546991864",
+                "longitude": "-74,09086415",
+                "code": "UPZ50"
+            },
+            {
+                "name": "Los Libertadores",
+                "district_area_id": 4,
+                "shape": "",
+                "latitude": "4,532872382",
+                "longitude": "-74,09123071",
+                "code": "UPZ51"
+            },
+            {
+                "name": "La Flora",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,507608789",
+                "longitude": "-74,0868862",
+                "code": "UPZ52"
+            },
+            {
+                "name": "Danubio",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,535959089",
+                "longitude": "-74,11453515",
+                "code": "UPZ56"
+            },
+            {
+                "name": "Gran Yomasa",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,515680756",
+                "longitude": "-74,11033257",
+                "code": "UPZ57"
+            },
+            {
+                "name": "Comuneros",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,506480089",
+                "longitude": "-74,11665981",
+                "code": "UPZ58"
+            },
+            {
+                "name": "Alfonso López",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,495121032",
+                "longitude": "-74,1023119",
+                "code": "UPZ59"
+            },
+            {
+                "name": "Parque Entrenubes",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,537096932",
+                "longitude": "-74,10223825",
+                "code": "UPZ60"
+            },
+            {
+                "name": "Ciudad Usme",
+                "district_area_id": 5,
+                "shape": "",
+                "latitude": "4,484097264",
+                "longitude": "-74,10595298",
+                "code": "UPZ61"
+            },
+            {
+                "name": "Venecia",
+                "district_area_id": 6,
+                "shape": "",
+                "latitude": "4,58134465",
+                "longitude": "-74,14110614",
+                "code": "UPZ42"
+            },
+            {
+                "name": "Tunjuelito",
+                "district_area_id": 6,
+                "shape": "",
+                "latitude": "4,557556095",
+                "longitude": "-74,13088731",
+                "code": "UPZ62"
+            },
+            {
+                "name": "Apogeo",
+                "district_area_id": 7,
+                "shape": "",
+                "latitude": "4,600999832",
+                "longitude": "-74,16549209",
+                "code": "UPZ49"
+            },
+            {
+                "name": "Bosa Occidental",
+                "district_area_id": 7,
+                "shape": "",
+                "latitude": "4,623682518",
+                "longitude": "-74,19222119",
+                "code": "UPZ84"
+            },
+            {
+                "name": "Bosa Central",
+                "district_area_id": 7,
+                "shape": "",
+                "latitude": "4,608092156",
+                "longitude": "-74,1966182",
+                "code": "UPZ85"
+            },
+            {
+                "name": "El Porvenir",
+                "district_area_id": 7,
+                "shape": "",
+                "latitude": "4,641793922",
+                "longitude": "-74,19244144",
+                "code": "UPZ86"
+            },
+            {
+                "name": "Tintal Sur",
+                "district_area_id": 7,
+                "shape": "",
+                "latitude": "4,630291811",
+                "longitude": "-74,20966516",
+                "code": "UPZ87"
+            },
+            {
+                "name": "Castilla",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,644275726",
+                "longitude": "-74,14244156",
+                "code": "UPZ46"
+            },
+            {
+                "name": "Américas",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,620371603",
+                "longitude": "-74,13541075",
+                "code": "UPZ44"
+            },
+            {
+                "name": "Carvajal",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,607092614",
+                "longitude": "-74,14102211",
+                "code": "UPZ45"
+            },
+            {
+                "name": "Kennedy Central",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,622591319",
+                "longitude": "-74,15828367",
+                "code": "UPZ47"
+            },
+            {
+                "name": "Timiza",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,60839901",
+                "longitude": "-74,16214602",
+                "code": "UPZ48"
+            },
+            {
+                "name": "Tintal Norte",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,656688148",
+                "longitude": "-74,15414484",
+                "code": "UPZ78"
+            },
+            {
+                "name": "Calandaima",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,648562584",
+                "longitude": "-74,16225338",
+                "code": "UPZ79"
+            },
+            {
+                "name": "Corabastos",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,630679816",
+                "longitude": "-74,16225311",
+                "code": "UPZ80"
+            },
+            {
+                "name": "Gran Britalia",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,619844134",
+                "longitude": "-74,17561831",
+                "code": "UPZ81"
+            },
+            {
+                "name": "Patio Bonito",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,641257053",
+                "longitude": "-74,16916711",
+                "code": "UPZ82"
+            },
+            {
+                "name": "Las Margaritas",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,637752139",
+                "longitude": "-74,17817513",
+                "code": "UPZ83"
+            },
+            {
+                "name": "Bavaria",
+                "district_area_id": 8,
+                "shape": "",
+                "latitude": "4,638383136",
+                "longitude": "-74,12803635",
+                "code": "UPZ113"
+            },
+            {
+                "name": "Fontibón",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,676983523",
+                "longitude": "-74,14341666",
+                "code": "UPZ75"
+            },
+            {
+                "name": "Fontibón-San Pablo",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,693959716",
+                "longitude": "-74,16131924",
+                "code": "UPZ76"
+            },
+            {
+                "name": "Zona Franca",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,678612208",
+                "longitude": "-74,15757485",
+                "code": "UPZ77"
+            },
+            {
+                "name": "Ciudad Salitre Occidente",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,65576853",
+                "longitude": "-74,11205446",
+                "code": "UPZ110"
+            },
+            {
+                "name": "Granjas de Techo",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,654020781",
+                "longitude": "-74,12561628",
+                "code": "UPZ112"
+            },
+            {
+                "name": "Modelia",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,666632895",
+                "longitude": "-74,12341089",
+                "code": "UPZ114"
+            },
+            {
+                "name": "Capellanía",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,678461973",
+                "longitude": "-74,12437401",
+                "code": "UPZ115"
+            },
+            {
+                "name": "Aeropuerto Eldorado",
+                "district_area_id": 9,
+                "shape": "",
+                "latitude": "4,700599459",
+                "longitude": "-74,14183893",
+                "code": "UPZ117"
+            },
+            {
+                "name": "Las Ferias",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,681298053",
+                "longitude": "-74,0906089",
+                "code": "UPZ26"
+            },
+            {
+                "name": "Minuto de Dios",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,709373049",
+                "longitude": "-74,09776047",
+                "code": "UPZ29"
+            },
+            {
+                "name": "Boyacá Real",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,694479453",
+                "longitude": "-74,10337702",
+                "code": "UPZ30"
+            },
+            {
+                "name": "Santa Cecilia",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,676338018",
+                "longitude": "-74,1080551",
+                "code": "UPZ31"
+            },
+            {
+                "name": "Bolivia",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,724012931",
+                "longitude": "-74,11589153",
+                "code": "UPZ72"
+            },
+            {
+                "name": "Garcés Navas",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,71280261",
+                "longitude": "-74,12709939",
+                "code": "UPZ73"
+            },
+            {
+                "name": "Engativá",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,711586899",
+                "longitude": "-74,1411071",
+                "code": "UPZ74"
+            },
+            {
+                "name": "Jardín Botánico",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,66211452",
+                "longitude": "-74,10156998",
+                "code": "UPZ105"
+            },
+            {
+                "name": "Álamos",
+                "district_area_id": 10,
+                "shape": "",
+                "latitude": "4,683104283",
+                "longitude": "-74,11694543",
+                "code": "UPZ116"
+            },
+            {
+                "name": "La Academia",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,789090139",
+                "longitude": "-74,05115586",
+                "code": "UPZ2"
+            },
+            {
+                "name": "Guaymaral",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,815091861",
+                "longitude": "-74,04677283",
+                "code": "UPZ3"
+            },
+            {
+                "name": "San José de Bavaria",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,761712509",
+                "longitude": "-74,05829568",
+                "code": "UPZ17"
+            },
+            {
+                "name": "Britalia",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,749095255",
+                "longitude": "-74,05652485",
+                "code": "UPZ18"
+            },
+            {
+                "name": "El Prado",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,723793183",
+                "longitude": "-74,05693697",
+                "code": "UPZ19"
+            },
+            {
+                "name": "La Alhambra",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,697977391",
+                "longitude": "-74,0621437",
+                "code": "UPZ20"
+            },
+            {
+                "name": "Casablanca SUba",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,745431768",
+                "longitude": "-74,06977136",
+                "code": "UPZ23"
+            },
+            {
+                "name": "Niza",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,717565152",
+                "longitude": "-74,07348272",
+                "code": "UPZ24"
+            },
+            {
+                "name": "La Floresta",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,701303445",
+                "longitude": "-74,07938249",
+                "code": "UPZ25"
+            },
+            {
+                "name": "Suba",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,750942278",
+                "longitude": "-74,08908699",
+                "code": "UPZ27"
+            },
+            {
+                "name": "El Rincón",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,732206735",
+                "longitude": "-74,09240721",
+                "code": "UPZ28"
+            },
+            {
+                "name": "Tibabuyes",
+                "district_area_id": 11,
+                "shape": "",
+                "latitude": "4,744648319",
+                "longitude": "-74,11737217",
+                "code": "UPZ71"
+            },
+            {
+                "name": "Los Andes",
+                "district_area_id": 12,
+                "shape": "",
+                "latitude": "4,681794592",
+                "longitude": "-74,0681349",
+                "code": "UPZ21"
+            },
+            {
+                "name": "12 de Octubre",
+                "district_area_id": 12,
+                "shape": "",
+                "latitude": "4,67124589",
+                "longitude": "-74,07832211",
+                "code": "UPZ22"
+            },
+            {
+                "name": "Los Alcázares",
+                "district_area_id": 12,
+                "shape": "",
+                "latitude": "4,664285681",
+                "longitude": "-74,06845465",
+                "code": "UPZ98"
+            },
+            {
+                "name": "Parque Salitre",
+                "district_area_id": 12,
+                "shape": "",
+                "latitude": "4,661942302",
+                "longitude": "-74,08561008",
+                "code": "UPZ103"
+            },
+            {
+                "name": "Galerías",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,642903877",
+                "longitude": "-74,07208282",
+                "code": "UPZ100"
+            },
+            {
+                "name": "Teusaquillo",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,626522263",
+                "longitude": "-74,07513316",
+                "code": "UPZ101"
+            },
+            {
+                "name": "Parque Simón Bolívar",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,648991984",
+                "longitude": "-74,09118466",
+                "code": "UPZ104"
+            },
+            {
+                "name": "La Esmeralda",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,647636108",
+                "longitude": "-74,08694999",
+                "code": "UPZ106"
+            },
+            {
+                "name": "Quinta Paredes",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,631541124",
+                "longitude": "-74,09025186",
+                "code": "UPZ107"
+            },
+            {
+                "name": "Ciudad Salitre Oriental",
+                "district_area_id": 13,
+                "shape": "",
+                "latitude": "4,644015332",
+                "longitude": "-74,10144535",
+                "code": "UPZ109"
+            },
+            {
+                "name": "Santa Isabel",
+                "district_area_id": 14,
+                "shape": "",
+                "latitude": "4,59918384",
+                "longitude": "-74,09592782",
+                "code": "UPZ37"
+            },
+            {
+                "name": "La Sabana",
+                "district_area_id": 14,
+                "shape": "",
+                "latitude": "4,610830521",
+                "longitude": "-74,08535649",
+                "code": "UPZ102"
+            },
+            {
+                "name": "Ciudad Jardín",
+                "district_area_id": 15,
+                "shape": "",
+                "latitude": "4,583808271",
+                "longitude": "-74,09371284",
+                "code": "UPZ35"
+            },
+            {
+                "name": "Restrepo",
+                "district_area_id": 15,
+                "shape": "",
+                "latitude": "4,589752024",
+                "longitude": "-74,10987968",
+                "code": "UPZ38"
+            },
+            {
+                "name": "Ciudad Montes",
+                "district_area_id": 16,
+                "shape": "",
+                "latitude": "4,607164966",
+                "longitude": "-74,11347207",
+                "code": "UPZ40"
+            },
+            {
+                "name": "Muzú",
+                "district_area_id": 16,
+                "shape": "",
+                "latitude": "4,601288892",
+                "longitude": "-74,12551911",
+                "code": "UPZ41"
+            },
+            {
+                "name": "San Rafael",
+                "district_area_id": 16,
+                "shape": "",
+                "latitude": "4,619179336",
+                "longitude": "-74,11743796",
+                "code": "UPZ43"
+            },
+            {
+                "name": "Zona Industrial",
+                "district_area_id": 16,
+                "shape": "",
+                "latitude": "4,616903908",
+                "longitude": "-74,09508479",
+                "code": "UPZ108"
+            },
+            {
+                "name": "Puente Aranda",
+                "district_area_id": 16,
+                "shape": "",
+                "latitude": "4,635427204",
+                "longitude": "-74,10693317",
+                "code": "UPZ111"
+            },
+            {
+                "name": "La Candelaria",
+                "district_area_id": 17,
+                "shape": "",
+                "latitude": "4,596194716",
+                "longitude": "-74,07035071",
+                "code": "UPZ94"
+            },
+            {
+                "name": "San José",
+                "district_area_id": 18,
+                "shape": "",
+                "latitude": "4,572964223",
+                "longitude": "-74,10479331",
+                "code": "UPZ36"
+            },
+            {
+                "name": "Quiroga",
+                "district_area_id": 18,
+                "shape": "",
+                "latitude": "4,581110279",
+                "longitude": "-74,11668464",
+                "code": "UPZ39"
+            },
+            {
+                "name": "Marco Fidel Suárez",
+                "district_area_id": 18,
+                "shape": "",
+                "latitude": "4,569586382",
+                "longitude": "-74,11501238",
+                "code": "UPZ53"
+            },
+            {
+                "name": "Marruecos",
+                "district_area_id": 18,
+                "shape": "",
+                "latitude": "4,556695216",
+                "longitude": "-74,11566251",
+                "code": "UPZ54"
+            },
+            {
+                "name": "Diana Turbay",
+                "district_area_id": 18,
+                "shape": "",
+                "latitude": "4,543993112",
+                "longitude": "-74,10913786",
+                "code": "UPZ55"
+            },
+            {
+                "name": "El Mochuelo",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,540190555",
+                "longitude": "-74,13005936",
+                "code": "UPZ63"
+            },
+            {
+                "name": "Monteblanco",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,499838996",
+                "longitude": "-74,13529973",
+                "code": "UPZ64"
+            },
+            {
+                "name": "Arborizadora",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,583209055",
+                "longitude": "-74,15118114",
+                "code": "UPZ65"
+            },
+            {
+                "name": "San Francisco",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,565496129",
+                "longitude": "-74,14762781",
+                "code": "UPZ66"
+            },
+            {
+                "name": "Lucero",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,550667242",
+                "longitude": "-74,14993907",
+                "code": "UPZ67"
+            },
+            {
+                "name": "El Tesoro",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,539177576",
+                "longitude": "-74,14259425",
+                "code": "UPZ68"
+            },
+            {
+                "name": "Ismael Perdomo",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,583977672",
+                "longitude": "-74,17058884",
+                "code": "UPZ69"
+            },
+            {
+                "name": "Jerusalén",
+                "district_area_id": 19,
+                "shape": "",
+                "latitude": "4,566445717",
+                "longitude": "-74,16479088",
+                "code": "UPZ70"
+            }
+        ]
+    }
+]

@@ -14,8 +14,12 @@ class UpzsTest < ApplicationSystemTestCase
     visit upzs_url
     click_on "New Upz"
 
+    fill_in "Code", with: @upz.code
     fill_in "District Area", with: @upz.district_area_id
+    fill_in "Latitude", with: @upz.latitude
+    fill_in "Longitude", with: @upz.longitude
     fill_in "Name", with: @upz.name
+    fill_in "Shape", with: @upz.shape
     click_on "Create Upz"
 
     assert_text "Upz was successfully created"
@@ -26,8 +30,12 @@ class UpzsTest < ApplicationSystemTestCase
     visit upzs_url
     click_on "Edit", match: :first
 
+    fill_in "Code", with: @upz.code
     fill_in "District Area", with: @upz.district_area_id
+    fill_in "Latitude", with: @upz.latitude
+    fill_in "Longitude", with: @upz.longitude
     fill_in "Name", with: @upz.name
+    fill_in "Shape", with: @upz.shape
     click_on "Update Upz"
 
     assert_text "Upz was successfully updated"

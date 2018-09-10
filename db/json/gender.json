@@ -1,0 +1,20 @@
+[
+    {
+        "Entity": "Gender",
+        "Rows":
+        [
+            {
+                "name": "Femenino"
+            },
+            {
+                "name": "Masculino"
+            },
+            {
+                "name": "Trans Masculino"
+            },
+            {
+                "name": "Trans Femenino"
+            }
+        ]
+    }
+]

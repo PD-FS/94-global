@@ -14,11 +14,15 @@ class DistrictAreasTest < ApplicationSystemTestCase
     visit district_areas_url
     click_on "New District Area"
 
+    fill_in "City", with: @district_area.city_id
     fill_in "Density", with: @district_area.density
     fill_in "Initialzipcode", with: @district_area.initialZipCode
     fill_in "Lastzipcode", with: @district_area.lastZipCode
+    fill_in "Latitude", with: @district_area.latitude
+    fill_in "Longitude", with: @district_area.longitude
     fill_in "Name", with: @district_area.name
     fill_in "Population", with: @district_area.population
+    fill_in "Shape", with: @district_area.shape
     fill_in "Surfacearea", with: @district_area.surfaceArea
     click_on "Create District area"
 
@@ -30,11 +34,15 @@ class DistrictAreasTest < ApplicationSystemTestCase
     visit district_areas_url
     click_on "Edit", match: :first
 
+    fill_in "City", with: @district_area.city_id
     fill_in "Density", with: @district_area.density
     fill_in "Initialzipcode", with: @district_area.initialZipCode
     fill_in "Lastzipcode", with: @district_area.lastZipCode
+    fill_in "Latitude", with: @district_area.latitude
+    fill_in "Longitude", with: @district_area.longitude
     fill_in "Name", with: @district_area.name
     fill_in "Population", with: @district_area.population
+    fill_in "Shape", with: @district_area.shape
     fill_in "Surfacearea", with: @district_area.surfaceArea
     click_on "Update District area"
 

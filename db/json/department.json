@@ -1,0 +1,272 @@
+[
+    {
+        "Entity": "Department",
+        "Rows":
+        [
+            {
+                "name": "Amazonas",
+                "code": 91,
+                "area": 109665,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Antioquia",
+                "code": "05",
+                "area": 63612,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Arauca",
+                "code": 81,
+                "area": 23818,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Archipiélago De San Andrés, Providencia Y Santa Catalina",
+                "code": 88,
+                "area": 52,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Atlántico",
+                "code": "08",
+                "area": 3019,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Bogotá, D.C.",
+                "code": 11,
+                "area": 1775,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Bolívar",
+                "code": 13,
+                "area": 25978,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Boyacá",
+                "code": 15,
+                "area": 23012,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Caldas",
+                "code": 17,
+                "area": 7888,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Caquetá",
+                "code": 18,
+                "area": 88965,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Casanare",
+                "code": 85,
+                "area": 44490,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Cauca",
+                "code": 19,
+                "area": 29308,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Cesar",
+                "code": 20,
+                "area": 22905,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Chocó",
+                "code": 27,
+                "area": 46530,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Córdoba",
+                "code": 23,
+                "area": 25020,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Cundinamarca",
+                "code": 25,
+                "area": 24210,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Guainía",
+                "code": 94,
+                "area": 72238,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Guaviare",
+                "code": 95,
+                "area": 52957,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Huila",
+                "code": 41,
+                "area": 19890,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "La Guajira",
+                "code": 44,
+                "area": 20848,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Magdalena",
+                "code": 47,
+                "area": 23188,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Meta",
+                "code": 50,
+                "area": 85635,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Nariño",
+                "code": 52,
+                "area": 32820,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Norte De Santander",
+                "code": 54,
+                "area": 21648,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Putumayo",
+                "code": 86,
+                "area": 24885,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Quindio",
+                "code": 63,
+                "area": 1845,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Risaralda",
+                "code": 66,
+                "area": 4140,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Santander",
+                "code": 68,
+                "area": 30537,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Sucre",
+                "code": 70,
+                "area": 10670,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Tolima",
+                "code": 73,
+                "area": 23562,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Valle Del Cauca",
+                "code": 76,
+                "area": 22195,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Vaupés",
+                "code": 97,
+                "area": 54135,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            },
+            {
+                "name": "Vichada",
+                "code": 99,
+                "area": 100947,
+                "shape": "",
+                "latitude": "",
+                "longitude": ""
+            }
+        ]
+    }
+]

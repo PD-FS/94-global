@@ -1,0 +1,40 @@
+[
+    {
+        "Entity": "BloodType",
+        "Rows":
+        [
+            {
+              "group": "A",
+              "rh": "+"
+            },
+            {
+              "group": "A",
+              "rh": "-"
+            },
+            {
+              "group": "B",
+              "rh": "+"
+            },
+            {
+              "group": "B",
+              "rh": "-"
+            },
+            {
+              "group": "O",
+              "rh": "+"
+            },
+            {
+              "group": "O",
+              "rh": "-"
+            },
+            {
+              "group": "AB",
+              "rh": "+"
+            },
+            {
+              "group": "AB",
+              "rh": "-"
+            }
+        ]
+    }
+]

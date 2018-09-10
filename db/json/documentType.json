@@ -1,0 +1,32 @@
+[
+    {
+        "Entity": "DocumentType",
+        "Rows":
+        [
+            {
+                "longname": "Cédula de ciudadanía",
+                "name": "CC"
+            },
+            {
+                "longname": "Cédula de extranjería",
+                "name": "CE"
+            },
+            {
+                "longname": "Tarjeta de identidad",
+                "name": "TI"
+            },
+            {
+                "longname": "Pasaporte",
+                "name": "PP"
+            },
+            {
+                "longname": "Registro civil de nacimiento",
+                "name": "RC"
+            },
+            {
+                "longname": "Documento de identificación extranjero",
+                "name": "DE"
+            }
+         ]
+    }
+]

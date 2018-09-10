@@ -1,3 +1,3 @@
 class DistrictArea < ApplicationRecord
-	has_many :upzs, dependent: :destroy
+  belongs_to :city
 end

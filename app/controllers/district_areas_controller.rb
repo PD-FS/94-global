@@ -69,6 +69,6 @@ class DistrictAreasController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def district_area_params
-      params.require(:district_area).permit(:name, :initialZipCode, :lastZipCode, :surfaceArea, :population, :density)
+      params.require(:district_area).permit(:name, :initialZipCode, :lastZipCode, :surfaceArea, :population, :density, :shape, :latitude, :longitude, :city_id)
     end
 end
