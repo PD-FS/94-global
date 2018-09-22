@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Report:</strong>
+  <%= @report_parameter_datum.report %>
+</p>
+
+<p>
+  <strong>Report parameter:</strong>
+  <%= @report_parameter_datum.report_parameter %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @report_parameter_datum.value %>
+</p>
+
+<%= link_to 'Edit', edit_report_parameter_datum_path(@report_parameter_datum) %> |
+<%= link_to 'Back', report_parameter_data_path %>

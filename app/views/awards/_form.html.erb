@@ -1,0 +1,77 @@
+<%= form_with(model: award, local: true) do |form| %>
+  <% if award.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(award.errors.count, "error") %> prohibited this award from being saved:</h2>
+
+      <ul>
+      <% award.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :stock %>
+    <%= form.number_field :stock %>
+  </div>
+
+  <div class="field">
+    <%= form.label :minimumAge %>
+    <%= form.number_field :minimumAge %>
+  </div>
+
+  <div class="field">
+    <%= form.label :maximumAge %>
+    <%= form.number_field :maximumAge %>
+  </div>
+
+  <div class="field">
+    <%= form.label :picture %>
+    <%= form.text_field :picture %>
+  </div>
+
+  <div class="field">
+    <%= form.label :description %>
+    <%= form.text_area :description %>
+  </div>
+
+  <div class="field">
+    <%= form.label :terms %>
+    <%= form.text_field :terms %>
+  </div>
+
+  <div class="field">
+    <%= form.label :startDate %>
+    <%= form.datetime_select :startDate %>
+  </div>
+
+  <div class="field">
+    <%= form.label :endDate %>
+    <%= form.datetime_select :endDate %>
+  </div>
+
+  <div class="field">
+    <%= form.label :rate %>
+    <%= form.text_field :rate %>
+  </div>
+
+  <div class="field">
+    <%= form.label :civicoins %>
+    <%= form.text_field :civicoins %>
+  </div>
+
+  <div class="field">
+    <%= form.label :enterprise_id %>
+    <%= form.text_field :enterprise_id %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

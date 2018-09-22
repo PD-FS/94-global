@@ -19,7 +19,12 @@ file_names_list = [
     'city',
     'districtArea',
     'upz',
-    'neighborhood'
+    'neighborhood',
+    
+    'reportCategory',
+    'reportClass',
+    'reportType',
+    'enterpriseSector'
 ]
 p "Validando campos..."
 # Json validations

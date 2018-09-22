@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @civicoin.user %>
+</p>
+
+<p>
+  <strong>App:</strong>
+  <%= @civicoin.app %>
+</p>
+
+<p>
+  <strong>Transaction:</strong>
+  <%= @civicoin.transaction %>
+</p>
+
+<p>
+  <strong>Amount:</strong>
+  <%= @civicoin.amount %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @civicoin.description %>
+</p>
+
+<%= link_to 'Edit', edit_civicoin_path(@civicoin) %> |
+<%= link_to 'Back', civicoins_path %>

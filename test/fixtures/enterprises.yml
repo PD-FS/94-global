@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  nit: MyString
+  address: MyString
+  phone: MyString
+  website: MyString
+  facebook_id: MyString
+  instagram_id: MyString
+  latitude: 9.99
+  longitude: 9.99
+  description: MyString
+  enterprise_sector: one
+
+two:
+  name: MyString
+  nit: MyString
+  address: MyString
+  phone: MyString
+  website: MyString
+  facebook_id: MyString
+  instagram_id: MyString
+  latitude: 9.99
+  longitude: 9.99
+  description: MyString
+  enterprise_sector: two

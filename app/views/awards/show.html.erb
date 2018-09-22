@@ -1,0 +1,64 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @award.name %>
+</p>
+
+<p>
+  <strong>Stock:</strong>
+  <%= @award.stock %>
+</p>
+
+<p>
+  <strong>Minimumage:</strong>
+  <%= @award.minimumAge %>
+</p>
+
+<p>
+  <strong>Maximumage:</strong>
+  <%= @award.maximumAge %>
+</p>
+
+<p>
+  <strong>Picture:</strong>
+  <%= @award.picture %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @award.description %>
+</p>
+
+<p>
+  <strong>Terms:</strong>
+  <%= @award.terms %>
+</p>
+
+<p>
+  <strong>Startdate:</strong>
+  <%= @award.startDate %>
+</p>
+
+<p>
+  <strong>Enddate:</strong>
+  <%= @award.endDate %>
+</p>
+
+<p>
+  <strong>Rate:</strong>
+  <%= @award.rate %>
+</p>
+
+<p>
+  <strong>Civicoins:</strong>
+  <%= @award.civicoins %>
+</p>
+
+<p>
+  <strong>Enterprise:</strong>
+  <%= @award.enterprise %>
+</p>
+
+<%= link_to 'Edit', edit_award_path(@award) %> |
+<%= link_to 'Back', awards_path %>

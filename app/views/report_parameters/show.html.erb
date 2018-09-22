@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Report type:</strong>
+  <%= @report_parameter.report_type %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @report_parameter.name %>
+</p>
+
+<p>
+  <strong>Datatype:</strong>
+  <%= @report_parameter.dataType %>
+</p>
+
+<p>
+  <strong>Optional:</strong>
+  <%= @report_parameter.optional %>
+</p>
+
+<p>
+  <strong>Referenced table:</strong>
+  <%= @report_parameter.referenced_table %>
+</p>
+
+<p>
+  <strong>Html visualization:</strong>
+  <%= @report_parameter.html_visualization %>
+</p>
+
+<%= link_to 'Edit', edit_report_parameter_path(@report_parameter) %> |
+<%= link_to 'Back', report_parameters_path %>

@@ -1,0 +1,40 @@
+[
+    {
+        "Entity": "EnterpriseSector",
+        "Rows":
+        [
+            {
+                "name": "Salud",
+                "icon": ""
+            },
+            {
+                "name": "Alimentos y bebidas",
+                "icon": ""
+            },
+            {
+                "name": "Energía",
+                "icon": ""
+            },
+            {
+                "name": "Telecomunicaciones",
+                "icon": ""
+            },
+            {
+                "name": "Deportes",
+                "icon": ""
+            },
+            {
+                "name": "Tecnología",
+                "icon": ""
+            },
+            {
+                "name": "Legal",
+                "icon": ""
+            },
+            {
+                "name": "Entretenimiento",
+                "icon": ""
+            }
+        ]
+    }
+]

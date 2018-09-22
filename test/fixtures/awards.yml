@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  stock: 1
+  minimumAge: 1
+  maximumAge: 1
+  picture: MyString
+  description: MyText
+  terms: MyString
+  startDate: 2018-09-22 16:56:21
+  endDate: 2018-09-22 16:56:21
+  rate: MyString
+  civicoins: MyString
+  enterprise: one
+
+two:
+  name: MyString
+  stock: 1
+  minimumAge: 1
+  maximumAge: 1
+  picture: MyString
+  description: MyText
+  terms: MyString
+  startDate: 2018-09-22 16:56:21
+  endDate: 2018-09-22 16:56:21
+  rate: MyString
+  civicoins: MyString
+  enterprise: two

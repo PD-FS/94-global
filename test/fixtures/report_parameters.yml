@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  report_type: one
+  name: MyString
+  dataType: MyString
+  optional: MyString
+  referenced_table: MyString
+  html_visualization: MyString
+
+two:
+  report_type: two
+  name: MyString
+  dataType: MyString
+  optional: MyString
+  referenced_table: MyString
+  html_visualization: MyString

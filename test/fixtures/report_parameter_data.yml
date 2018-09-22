@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  report: one
+  report_parameter: one
+  value: MyString
+
+two:
+  report: two
+  report_parameter: two
+  value: MyString

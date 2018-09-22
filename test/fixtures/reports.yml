@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  report_type: one
+  latitude: 9.99
+  longitude: 9.99
+  votes: MyString
+  totalCalification: MyString
+
+two:
+  report_type: two
+  latitude: 9.99
+  longitude: 9.99
+  votes: MyString
+  totalCalification: MyString

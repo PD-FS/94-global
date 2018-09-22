@@ -1,0 +1,50 @@
+[
+    {
+        "Entity": "ReportCategory",
+        "Rows":
+        [
+            [
+                {
+                    "name": "Seguridad",
+                    "icon": ""
+                },
+                {
+                    "name": "Convivencia",
+                    "icon": ""
+                },
+                {
+                    "name": "Educación",
+                    "icon": ""
+                },
+                {
+                    "name": "Movilidad",
+                    "icon": ""
+                },
+                {
+                    "name": "Recreación",
+                    "icon": ""
+                },
+                {
+                    "name": "Cultura",
+                    "icon": ""
+                },
+                {
+                    "name": "Salud",
+                    "icon": ""
+                },
+                {
+                    "name": "Legal",
+                    "icon": ""
+                },
+                {
+                    "name": "Ambiental",
+                    "icon": ""
+                },
+                {
+                    "name": "Animal",
+                    "icon": ""
+                }
+            ]
+        ]
+    }
+]

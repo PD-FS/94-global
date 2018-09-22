@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Civicoins</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>App</th>
+      <th>Transaction</th>
+      <th>Amount</th>
+      <th>Description</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @civicoins.each do |civicoin| %>
+      <tr>
+        <td><%= civicoin.user %></td>
+        <td><%= civicoin.app %></td>
+        <td><%= civicoin.transaction %></td>
+        <td><%= civicoin.amount %></td>
+        <td><%= civicoin.description %></td>
+        <td><%= link_to 'Show', civicoin %></td>
+        <td><%= link_to 'Edit', edit_civicoin_path(civicoin) %></td>
+        <td><%= link_to 'Destroy', civicoin, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Civicoin', new_civicoin_path %>

@@ -1,0 +1,32 @@
+[
+    {
+        "Entity": "ReportClass",
+        "Rows":
+        [
+            {
+                "name": "Petición",
+                "icon": ""
+            },
+            {
+                "name": "Queja",
+                "icon": ""
+            },
+            {
+                "name": "Reclamo",
+                "icon": ""
+            },
+            {
+                "name": "Sugerencia",
+                "icon": ""
+            },
+            {
+                "name": "Evento",
+                "icon": ""
+            },
+            {
+                "name": "Denuncia",
+                "icon": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "Entity": "ReportType",
+        "Rows":
+        [
+            {
+                "name": "Recolección de basuras",
+                "report_category_id": 9,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Recolección de escombros",
+                "report_category_id": 9,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Tala de árboles",
+                "report_category_id": 9,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Robo de vehículo",
+                "report_category_id": 1,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Protesta",
+                "report_category_id": 1,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Vecino ruidoso",
+                "report_category_id": 2,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Reportar hueco",
+                "report_category_id": 4,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Vacunatón bebés",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Vacunatón mascotas",
+                "report_category_id": 10,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Yoga al parque",
+                "report_category_id": 5,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Cumbia al parque",
+                "report_category_id": 5,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Demora en bus SITP",
+                "report_category_id": 4,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Demora en bus TransMilenio",
+                "report_category_id": 4,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Cruce bloqueado",
+                "report_category_id": 4,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Malparqueo",
+                "report_category_id": 4,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Donación de sangre",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Jornada de prevención de cáncer de seno",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Jornada de prevención de cáncer de próstata",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Jornada de prevención de Leucemia",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Prevención del sarampión",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Jornada de salud sexual y reproductiva",
+                "report_category_id": 7,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Français au Parc (Francés al parque)",
+                "report_category_id": 3,
+                "picture": "",
+                "report_class_id": ""
+            }
+        ]
+    }
+]
