@@ -17,7 +17,7 @@
                 "enterprise_sector": 8,
                 "isPublic": true,
                 "logo": "",
-                "coverPage": ""
+                "coverPage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyy7qxQ0XMR5hvmtQZaE86Y41iCGO94d3P9kN0uXDYh0NsJ57-"
             },
             {
                 "name": "Maloka",
@@ -33,7 +33,7 @@
                 "enterprise_sector": 8,
                 "isPublic": true,
                 "logo": "",
-                "coverPage": ""
+                "coverPage": "http://www.uniminutoradio.com.co/wp-content/uploads/2018/06/maxresdefault.jpg"
             },
             {
                 "name": "Bibliored L.A.A",
@@ -49,7 +49,7 @@
                 "enterprise_sector": 9,
                 "isPublic": true,
                 "logo": "",
-                "coverPage": ""
+                "coverPage": "https://www.laguiacundinamarca.com/multimedia/images/noticias/2018/02/1519164498.jpg"
             },
             {
                 "name": "Complejo Acuático",
@@ -65,7 +65,7 @@
                 "enterprise_sector": 5,
                 "isPublic": true,
                 "logo": "",
-                "coverPage": ""
+                "coverPage": "https://www.idrd.gov.co/sites/default/files/documentosidrd/imagenes/complejo_acuatico.png"
             },
             {
                 "name": "F.G.A.A.",
@@ -81,7 +81,7 @@
                 "enterprise_sector": 8,
                 "isPublic": true,
                 "logo": "",
-                "coverPage": ""
+                "coverPage": "http://static.hsbnoticias.com/sites/default/files/styles/original/public/gallery/2016/10/fundacion-gilberto-alzate-avendano_r2.jpg"
             }
         ]
     }
