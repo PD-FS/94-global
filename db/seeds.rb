@@ -24,7 +24,8 @@ file_names_list = [
     'reportCategory',
     'reportClass',
     'reportType',
-    'enterpriseSector'
+    'enterpriseSector',
+    'enterprise'
 ]
 p "Validando campos..."
 # Json validations

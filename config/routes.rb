@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
-  resources :delivered_awards
   resources :awards
-  resources :civicoins
+  resources :enterprise_offices
   resources :enterprises
+  resources :civicoins
   resources :enterprise_sectors
   resources :report_parameter_data
   resources :reports

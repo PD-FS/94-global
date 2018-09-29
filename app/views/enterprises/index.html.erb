@@ -16,6 +16,9 @@
       <th>Longitude</th>
       <th>Description</th>
       <th>Enterprise sector</th>
+      <th>Ispublic</th>
+      <th>Logo</th>
+      <th>Coverpage</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -34,6 +37,9 @@
         <td><%= enterprise.longitude %></td>
         <td><%= enterprise.description %></td>
         <td><%= enterprise.enterprise_sector %></td>
+        <td><%= enterprise.isPublic %></td>
+        <td><%= enterprise.logo %></td>
+        <td><%= enterprise.coverPage %></td>
         <td><%= link_to 'Show', enterprise %></td>
         <td><%= link_to 'Edit', edit_enterprise_path(enterprise) %></td>
         <td><%= link_to 'Destroy', enterprise, method: :delete, data: { confirm: 'Are you sure?' } %></td>

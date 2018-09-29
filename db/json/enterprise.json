@@ -1,0 +1,88 @@
+[
+    {
+        "Entity": "Enterprise",
+        "Rows":
+        [
+            {
+                "name": "Cinemateca Distrital",
+                "nit": "",
+                "address": "Cra 3 # 19 - 34",
+                "phone": "",
+                "website": "",
+                "facebook_id": "",
+                "instagram_id": "",
+                "latitude": "",
+                "longitude": "",
+                "description": "",
+                "enterprise_sector": 8,
+                "isPublic": true,
+                "logo": "",
+                "coverPage": ""
+            },
+            {
+                "name": "Maloka",
+                "nit": "",
+                "address": "Cra. 68d #24A - 51",
+                "phone": "",
+                "website": "",
+                "facebook_id": "",
+                "instagram_id": "",
+                "latitude": "4,6555616",
+                "longitude": "-74,1094599",
+                "description": "",
+                "enterprise_sector": 8,
+                "isPublic": true,
+                "logo": "",
+                "coverPage": ""
+            },
+            {
+                "name": "Bibliored L.A.A",
+                "nit": "",
+                "address": "",
+                "phone": "",
+                "website": "",
+                "facebook_id": "",
+                "instagram_id": "",
+                "latitude": "",
+                "longitude": "",
+                "description": "",
+                "enterprise_sector": 9,
+                "isPublic": true,
+                "logo": "",
+                "coverPage": ""
+            },
+            {
+                "name": "Complejo Acuático",
+                "nit": "",
+                "address": "Ac. 63 #45-0",
+                "phone": "",
+                "website": "",
+                "facebook_id": "",
+                "instagram_id": "",
+                "latitude": "4,6549572",
+                "longitude": "-74,0855054",
+                "description": "",
+                "enterprise_sector": 5,
+                "isPublic": true,
+                "logo": "",
+                "coverPage": ""
+            },
+            {
+                "name": "F.G.A.A.",
+                "nit": "",
+                "address": "Cl. 10 #3-16",
+                "phone": "",
+                "website": "",
+                "facebook_id": "",
+                "instagram_id": "",
+                "latitude": "4,5953534",
+                "longitude": "-74,0745754",
+                "description": "",
+                "enterprise_sector": 8,
+                "isPublic": true,
+                "logo": "",
+                "coverPage": ""
+            }
+        ]
+    }
+]

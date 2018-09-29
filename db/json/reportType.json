@@ -134,6 +134,24 @@
                 "report_category_id": 3,
                 "picture": "",
                 "report_class_id": ""
+            },
+            {
+                "name": "Espanglish al Parque",
+                "report_category_id": 3,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Lectura al parque",
+                "report_category_id": 3,
+                "picture": "",
+                "report_class_id": ""
+            },
+            {
+                "name": "Minuta",
+                "report_category_id": 1,
+                "picture": "",
+                "report_class_id": 7
             }
         ]
     }

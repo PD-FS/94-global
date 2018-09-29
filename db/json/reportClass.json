@@ -26,6 +26,10 @@
             {
                 "name": "Denuncia",
                 "icon": ""
+            },
+            {
+                "name": "Registro",
+                "icon": ""
             }
         ]
     }

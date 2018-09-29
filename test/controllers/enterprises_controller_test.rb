@@ -17,7 +17,7 @@ class EnterprisesControllerTest < ActionDispatch::IntegrationTest
 
   test "should create enterprise" do
     assert_difference('Enterprise.count') do
-      post enterprises_url, params: { enterprise: { address: @enterprise.address, description: @enterprise.description, enterprise_sector_id: @enterprise.enterprise_sector_id, facebook_id: @enterprise.facebook_id, instagram_id: @enterprise.instagram_id, latitude: @enterprise.latitude, longitude: @enterprise.longitude, name: @enterprise.name, nit: @enterprise.nit, phone: @enterprise.phone, website: @enterprise.website } }
+      post enterprises_url, params: { enterprise: { address: @enterprise.address, coverPage: @enterprise.coverPage, description: @enterprise.description, enterprise_sector_id: @enterprise.enterprise_sector_id, facebook_id: @enterprise.facebook_id, instagram_id: @enterprise.instagram_id, isPublic: @enterprise.isPublic, latitude: @enterprise.latitude, logo: @enterprise.logo, longitude: @enterprise.longitude, name: @enterprise.name, nit: @enterprise.nit, phone: @enterprise.phone, website: @enterprise.website } }
     end
 
     assert_redirected_to enterprise_url(Enterprise.last)
@@ -34,7 +34,7 @@ class EnterprisesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update enterprise" do
-    patch enterprise_url(@enterprise), params: { enterprise: { address: @enterprise.address, description: @enterprise.description, enterprise_sector_id: @enterprise.enterprise_sector_id, facebook_id: @enterprise.facebook_id, instagram_id: @enterprise.instagram_id, latitude: @enterprise.latitude, longitude: @enterprise.longitude, name: @enterprise.name, nit: @enterprise.nit, phone: @enterprise.phone, website: @enterprise.website } }
+    patch enterprise_url(@enterprise), params: { enterprise: { address: @enterprise.address, coverPage: @enterprise.coverPage, description: @enterprise.description, enterprise_sector_id: @enterprise.enterprise_sector_id, facebook_id: @enterprise.facebook_id, instagram_id: @enterprise.instagram_id, isPublic: @enterprise.isPublic, latitude: @enterprise.latitude, logo: @enterprise.logo, longitude: @enterprise.longitude, name: @enterprise.name, nit: @enterprise.nit, phone: @enterprise.phone, website: @enterprise.website } }
     assert_redirected_to enterprise_url(@enterprise)
   end
 

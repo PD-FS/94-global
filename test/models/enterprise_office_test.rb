@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class DeliveredAwardTest < ActiveSupport::TestCase
+class EnterpriseOfficeTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

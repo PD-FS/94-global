@@ -1,0 +1,37 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Enterprise Offices</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>Phone</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>Enterprise</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @enterprise_offices.each do |enterprise_office| %>
+      <tr>
+        <td><%= enterprise_office.name %></td>
+        <td><%= enterprise_office.address %></td>
+        <td><%= enterprise_office.phone %></td>
+        <td><%= enterprise_office.latitude %></td>
+        <td><%= enterprise_office.longitude %></td>
+        <td><%= enterprise_office.enterprise %></td>
+        <td><%= link_to 'Show', enterprise_office %></td>
+        <td><%= link_to 'Edit', edit_enterprise_office_path(enterprise_office) %></td>
+        <td><%= link_to 'Destroy', enterprise_office, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Enterprise Office', new_enterprise_office_path %>

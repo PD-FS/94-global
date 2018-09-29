@@ -12,6 +12,9 @@ one:
   longitude: 9.99
   description: MyString
   enterprise_sector: one
+  isPublic: MyString
+  logo: MyString
+  coverPage: MyString
 
 two:
   name: MyString
@@ -25,3 +28,6 @@ two:
   longitude: 9.99
   description: MyString
   enterprise_sector: two
+  isPublic: MyString
+  logo: MyString
+  coverPage: MyString

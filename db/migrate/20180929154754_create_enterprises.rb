@@ -12,6 +12,9 @@ class CreateEnterprises < ActiveRecord::Migration[5.2]
       t.decimal :longitude
       t.string :description
       t.references :enterprise_sector, foreign_key: true
+      t.string :isPublic
+      t.string :logo
+      t.string :coverPage
 
       t.timestamps
     end

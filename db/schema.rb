@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_09_22_215757) do
+ActiveRecord::Schema.define(version: 2018_09_29_154912) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,15 +65,6 @@ ActiveRecord::Schema.define(version: 2018_09_22_215757) do
     t.index ["user_id"], name: "index_civicoins_on_user_id"
   end
 
-  create_table "delivered_awards", force: :cascade do |t|
-    t.bigint "user_id"
-    t.bigint "award_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["award_id"], name: "index_delivered_awards_on_award_id"
-    t.index ["user_id"], name: "index_delivered_awards_on_user_id"
-  end
-
   create_table "departments", force: :cascade do |t|
     t.string "name"
     t.decimal "code"
@@ -108,6 +99,18 @@ ActiveRecord::Schema.define(version: 2018_09_22_215757) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "enterprise_offices", force: :cascade do |t|
+    t.string "name"
+    t.string "address"
+    t.string "phone"
+    t.decimal "latitude"
+    t.decimal "longitude"
+    t.bigint "enterprise_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["enterprise_id"], name: "index_enterprise_offices_on_enterprise_id"
+  end
+
   create_table "enterprise_sectors", force: :cascade do |t|
     t.string "name"
     t.string "icon"
@@ -127,6 +130,9 @@ ActiveRecord::Schema.define(version: 2018_09_22_215757) do
     t.decimal "longitude"
     t.string "description"
     t.bigint "enterprise_sector_id"
+    t.string "isPublic"
+    t.string "logo"
+    t.string "coverPage"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["enterprise_sector_id"], name: "index_enterprises_on_enterprise_sector_id"
@@ -250,9 +256,8 @@ ActiveRecord::Schema.define(version: 2018_09_22_215757) do
   add_foreign_key "awards", "enterprises"
   add_foreign_key "cities", "departments"
   add_foreign_key "civicoins", "users"
-  add_foreign_key "delivered_awards", "awards"
-  add_foreign_key "delivered_awards", "users"
   add_foreign_key "district_areas", "cities"
+  add_foreign_key "enterprise_offices", "enterprises"
   add_foreign_key "enterprises", "enterprise_sectors"
   add_foreign_key "neighborhoods", "district_areas"
   add_foreign_key "report_parameter_data", "report_parameters"

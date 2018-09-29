@@ -55,5 +55,20 @@
   <%= @enterprise.enterprise_sector %>
 </p>
 
+<p>
+  <strong>Ispublic:</strong>
+  <%= @enterprise.isPublic %>
+</p>
+
+<p>
+  <strong>Logo:</strong>
+  <%= @enterprise.logo %>
+</p>
+
+<p>
+  <strong>Coverpage:</strong>
+  <%= @enterprise.coverPage %>
+</p>
+
 <%= link_to 'Edit', edit_enterprise_path(@enterprise) %> |
 <%= link_to 'Back', enterprises_path %>

@@ -15,11 +15,14 @@ class EnterprisesTest < ApplicationSystemTestCase
     click_on "New Enterprise"
 
     fill_in "Address", with: @enterprise.address
+    fill_in "Coverpage", with: @enterprise.coverPage
     fill_in "Description", with: @enterprise.description
     fill_in "Enterprise Sector", with: @enterprise.enterprise_sector_id
     fill_in "Facebook", with: @enterprise.facebook_id
     fill_in "Instagram", with: @enterprise.instagram_id
+    fill_in "Ispublic", with: @enterprise.isPublic
     fill_in "Latitude", with: @enterprise.latitude
+    fill_in "Logo", with: @enterprise.logo
     fill_in "Longitude", with: @enterprise.longitude
     fill_in "Name", with: @enterprise.name
     fill_in "Nit", with: @enterprise.nit
@@ -36,11 +39,14 @@ class EnterprisesTest < ApplicationSystemTestCase
     click_on "Edit", match: :first
 
     fill_in "Address", with: @enterprise.address
+    fill_in "Coverpage", with: @enterprise.coverPage
     fill_in "Description", with: @enterprise.description
     fill_in "Enterprise Sector", with: @enterprise.enterprise_sector_id
     fill_in "Facebook", with: @enterprise.facebook_id
     fill_in "Instagram", with: @enterprise.instagram_id
+    fill_in "Ispublic", with: @enterprise.isPublic
     fill_in "Latitude", with: @enterprise.latitude
+    fill_in "Logo", with: @enterprise.logo
     fill_in "Longitude", with: @enterprise.longitude
     fill_in "Name", with: @enterprise.name
     fill_in "Nit", with: @enterprise.nit
