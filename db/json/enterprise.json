@@ -14,7 +14,7 @@
                 "latitude": "",
                 "longitude": "",
                 "description": "",
-                "enterprise_sector": 8,
+                "enterprise_sector_id": 8,
                 "isPublic": true,
                 "logo": "",
                 "coverPage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyy7qxQ0XMR5hvmtQZaE86Y41iCGO94d3P9kN0uXDYh0NsJ57-"
@@ -30,7 +30,7 @@
                 "latitude": "4,6555616",
                 "longitude": "-74,1094599",
                 "description": "",
-                "enterprise_sector": 8,
+                "enterprise_sector_id": 8,
                 "isPublic": true,
                 "logo": "",
                 "coverPage": "http://www.uniminutoradio.com.co/wp-content/uploads/2018/06/maxresdefault.jpg"
@@ -46,7 +46,7 @@
                 "latitude": "",
                 "longitude": "",
                 "description": "",
-                "enterprise_sector": 9,
+                "enterprise_sector_id": 9,
                 "isPublic": true,
                 "logo": "",
                 "coverPage": "https://www.laguiacundinamarca.com/multimedia/images/noticias/2018/02/1519164498.jpg"
@@ -62,7 +62,7 @@
                 "latitude": "4,6549572",
                 "longitude": "-74,0855054",
                 "description": "",
-                "enterprise_sector": 5,
+                "enterprise_sector_id": 5,
                 "isPublic": true,
                 "logo": "",
                 "coverPage": "https://www.idrd.gov.co/sites/default/files/documentosidrd/imagenes/complejo_acuatico.png"
@@ -78,7 +78,7 @@
                 "latitude": "4,5953534",
                 "longitude": "-74,0745754",
                 "description": "",
-                "enterprise_sector": 8,
+                "enterprise_sector_id": 8,
                 "isPublic": true,
                 "logo": "",
                 "coverPage": "http://static.hsbnoticias.com/sites/default/files/styles/original/public/gallery/2016/10/fundacion-gilberto-alzate-avendano_r2.jpg"
