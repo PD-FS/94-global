@@ -1,3 +1,7 @@
+require 'net/http'
+require 'net/https'
+
+
 class GendersController < ApplicationController
   before_action :set_gender, only: [:show, :edit, :update, :destroy]
 
@@ -5,6 +9,24 @@ class GendersController < ApplicationController
   # GET /genders.json
   def index
     @genders = Gender.all
+    
+     puts "Enviando"
+        
+      params = {"app_id" => "51b98fbc-e654-4f66-989a-cde91601f393", 
+        "contents" => {"en" => "English Message Hola se creó un género"},
+        "included_segments" => ["Active Users"]}
+      uri = URI.parse('https://onesignal.com/api/v1/notifications')
+      http = Net::HTTP.new(uri.host, uri.port)
+      http.use_ssl = true
+
+      puts "antes de enviar"
+      request = Net::HTTP::Post.new(uri.path,
+                                    'Content-Type'  => 'application/json;charset=utf-8',
+                                    'Authorization' => "Basic Yjk3YTVlZTQtNTc5YS00MGY0LWJkY2ItNjE2ZGViMjY2Mzdj")
+      request.body = params.as_json.to_json
+      puts "enviando de verdá"
+      response = http.request(request) 
+      puts response.body
   end
 
   # GET /genders/1
@@ -30,6 +52,13 @@ class GendersController < ApplicationController
       if @gender.save
         format.html { redirect_to @gender, notice: 'Gender was successfully created.' }
         format.json { render :show, status: :created, location: @gender }
+        
+       
+        
+        
+        
+        
+        
       else
         format.html { render :new }
         format.json { render json: @gender.errors, status: :unprocessable_entity }
