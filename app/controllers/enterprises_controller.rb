@@ -10,6 +10,7 @@ class EnterprisesController < ApplicationController
   # GET /enterprises/1
   # GET /enterprises/1.json
   def show
+    
   end
 
   # GET /enterprises/new

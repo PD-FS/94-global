@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
-  resources :awards
+ 
   resources :enterprise_offices
   resources :enterprises
+  resources :awards
   resources :civicoins
   resources :enterprise_sectors
   resources :report_parameter_data
